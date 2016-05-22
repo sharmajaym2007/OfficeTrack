@@ -2,4 +2,8 @@
     <string name="app_name">OfficeTrack</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <!--Application's registered Facebook and Google Id-->
+    <string name="facebook_app_id">1727259774199121</string>
+    <string name="google_app_id">946663193192</string>
+    <string name="ConfiguredWifiLabel">Choose your Office Network</string>
 </resources>
